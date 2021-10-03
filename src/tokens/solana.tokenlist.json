@@ -15748,3 +15748,18 @@
     "patch": 2
   }
 }
+	{
+      "chainId": 101,
+      "address": "6JukLRReYtbDWNn5dDiMwnhKehRX5SE9FLN5joRtKX14",
+      "symbol": "RYP",
+      "name": "CryptoSeeds",
+      "decimals": 12,
+      "logoURI": "https://github.com/CryptoSeedsUK/token-list/blob/main/Facebook%20Profile%20Original.png",
+      "tags": ["seeds", "crypto", "CryptoSeeds", "UK", "agriculture", "dividends", "technology", "mining", 
+	     "security-token"
+	  ],
+      "extensions": {
+        "facebook": "https://www.facebook.com/cryptoseedsuk",
+		"github": "https://github.com/CryptoSeedsUK"
+      }
+      },
